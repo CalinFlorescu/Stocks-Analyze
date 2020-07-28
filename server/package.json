@@ -1,0 +1,13 @@
+{
+  "name": "Stocks-Analyze",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CalinFlorescu/Stocks-Analyze.git",
+  "author": "Florescu_Calin <calinflorescu3@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "request": "^2.88.2"
+  }
+}
